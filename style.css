@@ -1,0 +1,26 @@
+.jumbotron {
+  background-image: url(./img/1.jpg);
+  padding-top: 6rem;
+  height: 500px;
+}
+
+.jumbotron img {
+  height: 200px;
+  width: 200px;
+}
+
+#projects {
+  background-color: #0caa95;
+}
+
+#about {
+  padding-top: 700px;
+}
+
+footer {
+  background-color: #076155;
+}
+
+section {
+  padding-top: 8rem;
+}
